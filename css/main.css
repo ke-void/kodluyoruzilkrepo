@@ -1,0 +1,100 @@
+.center {
+
+    text-align: center;
+    
+}
+
+.fs-32 {
+
+    font-size: 2em;
+
+}
+
+.ff-mono {
+
+    font-family: monospace;
+
+}
+
+.fs-48 {
+
+    font-size: 3em;
+
+}
+
+.border {
+
+    border-bottom: groove;
+    border-color: turquoise;
+
+}
+
+a.nav:link {
+
+    text-decoration: none;
+    color:black;
+
+}
+
+a.nav:visited {
+
+    text-decoration: none;
+    color:black;
+}
+
+a.nav:hover {
+
+    font-size: 50px;    
+    background-color: blueviolet;
+    
+}
+
+a.nav:active {
+
+    color: turquoise;
+    text-decoration: none;
+}
+
+p {
+
+    text-align: center;
+}
+
+p.about {
+
+    margin-right: 200px;
+    margin-left: 200px;
+}
+   
+li.contact {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+a.footer:link {
+
+    text-decoration: none;
+    color: turquoise;
+    
+}
+
+a.footer:hover {
+
+    font-size: 25px;
+    background-color: blueviolet;
+    
+
+
+}
+
+li.lan {
+
+    list-style-type: none;
+
+}
+
+h3{
+
+    text-align: center;
+}
